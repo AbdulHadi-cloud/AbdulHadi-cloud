@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋 I'm Abdulhadi
 
-<!--
-**AbdulHadi-cloud/AbdulHadi-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌱 I'm currently expanding my knowledge in Python programming, system administration, and cloud architecture.
+* 💻 Exploring automation scripts, desktop tools, and networking concepts.
+* ⚡ Fun fact: I love tinkering with development environments and tech hardware!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+* **Languages:** Python
+* **Systems/Tools:** Git, Linux, VS Code, PyCharm
+  
+#### Goals:
+* I wanna become a cloud and Ai security architect and open my own consultation and cybersecurity company 
